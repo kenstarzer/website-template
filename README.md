@@ -8,4 +8,4 @@ Option 1: Use Template
 Click Use this template > Create a new repository
 
 Option 2: Open in new Codespace
-https://codespaces.new/criticalwebdesign/website-template 
+https://codespaces.new/kenstarzer/website-template 
